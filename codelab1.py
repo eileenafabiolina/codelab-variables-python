@@ -14,3 +14,4 @@ print("Resultado de la concatenación:", resultado_concatenacion)
 print(limite_enteros)
 print(limite_flotantes)
 print("Resultado de la suma de los primeros", n, "números pares:", suma_pares)
+
